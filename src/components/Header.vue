@@ -29,7 +29,7 @@
           </div>
           <div class="">
             <button class="px-6 py-3 bg-primary text-white shadow-lg font-bold border-2 border-primary hover:bg-white hover:text-primary focus:outline-none">
-              Post a Job
+              <router-link to="/postjob" class="nav-link">Post a Job</router-link>
             </button>
           </div>
         </div>

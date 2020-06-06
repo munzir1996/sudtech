@@ -6,6 +6,8 @@ Vue.use(VueRouter)
 import App from './App.vue'
 import Home from './components/Home.vue'
 import Login from './components/Login.vue'
+import Register from './components/Register.vue'
+import Postjob from './components/Postjob.vue'
 
 const router = new VueRouter({
   mode: 'history',
@@ -13,6 +15,8 @@ const router = new VueRouter({
   routes: [
     { path: '/', component: Home },
     { path: '/login', component: Login },
+    { path: '/register', component: Register },
+    { path: '/postjob', component: Postjob },
   ]
 });
 
