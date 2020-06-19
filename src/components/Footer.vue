@@ -7,7 +7,7 @@
       <a class="hover:text-gray-400 ml-3" href="#">Facebook</a>
       <a class="hover:text-gray-400 ml-3" href="#">Twitter</a>
     </div>
-    <div class="text-gray-500">
+    <div class="px-1 text-gray-500">
       <span>Build by <a class="hover:text-gray-400" href="https://twitter.com/__Pope_/followers">@__Pope_</a> and
         <a class="hover:text-gray-400" href="https://twitter.com/mohamed1_1_1994">@mohamed1_1_1994</a> with
         <a class="hover:text-gray-400" href="https://tailwindcss.com/">Tailwind CSS</a></span>
