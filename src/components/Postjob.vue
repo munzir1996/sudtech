@@ -79,7 +79,7 @@
 <script>
 import ClassicEditor from '@ckeditor/ckeditor5-build-classic';
   export default {
-    name: 'PostJob',
+    name: 'Postjob',
     props: {},
     data() {
       return {
